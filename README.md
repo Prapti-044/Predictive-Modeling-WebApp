@@ -1,5 +1,15 @@
 # Predictive-Modeling-WebApp
 
+![GitHub repo
+size](https://img.shields.io/github/repo-size/Prapti-044/Predictive-Modeling-WebApp)
+![GitHub code size in
+bytes](https://img.shields.io/github/languages/code-size/Prapti-044/Predictive-Modeling-WebApp)
+![GitHub language
+count](https://img.shields.io/github/languages/count/Prapti-044/Predictive-Modeling-WebApp)
+![GitHub top
+language](https://img.shields.io/github/languages/top/Prapti-044/Predictive-Modeling-WebApp)
+<!-- badges: end -->
+
 ## Shiny R-package
 A web-based interactive data-driven tool is designed using `Shiny`. 
 
